@@ -10,3 +10,4 @@ function VerificarNumero(int $a):void {
 VerificarNumero(8);
 VerificarNumero(5);
 VerificarNumero(12);
+    
